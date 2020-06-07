@@ -1,4 +1,4 @@
-const product = [
+[
   {
     id: 1,
     title: 'International Fellowship 2020',
@@ -242,5 +242,3 @@ const product = [
     stock: 14,
   },
 ];
-
-export default product;
